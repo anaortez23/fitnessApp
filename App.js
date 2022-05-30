@@ -3,8 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   console.log("App executed")
-  let x;
-  x.toString()
+  let x = 1;
   return (
     <View style={styles.container}>
       <Text>Hello World</Text>
